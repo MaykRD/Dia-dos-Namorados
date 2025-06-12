@@ -8,7 +8,7 @@ body {
     background-color: #ffe0f0; /* Um rosa claro fofo */
     color: #333;
     text-align: center;
-    overflow: hidden; /* Evita rolagem desnecessária quando um contêiner é escondido/mostrado */
+   
 }
 
 /* Classe para esconder elementos */
